@@ -48,7 +48,7 @@ So damit vorerst genug aufgeregt.
 
 Falls ihr zum 15. März versuchen wollt euer Geld zu beantragen geht zu [https://einmalzahlung200.de](https://einmalzahlung200.de).
 
-## [Impressum (sicher ist sicher)](#)
+## [Impressum (sicher ist sicher)](impressum.md)
 
 <sub>Bitte meldet mich nicht wieder beim BSI. Danke :)</sub>
 
