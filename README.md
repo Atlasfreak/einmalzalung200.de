@@ -50,6 +50,8 @@ Falls ihr zum 15. März versuchen wollt euer Geld zu beantragen geht zu [https:/
 
 ## [Impressum (sicher ist sicher)](#)
 
+<sub>Bitte meldet mich nicht wieder beim BSI. Danke :)</sub>
+
 ## Source Code
 
 [https://github.com/Atlasfreak/einmalzalung200.de](https://github.com/Atlasfreak/einmalzalung200.de)
