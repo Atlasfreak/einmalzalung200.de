@@ -5,16 +5,16 @@ Tldr: Ihr habt euch vertippt und wollt vermutlich zu [https://einmalzahlung200.d
 
 Nein du bist tatsächlich nicht hier richtig, aber fast. Schau dir die URL nochmal ganz genau an, da fehlt was (es ist ein "h").
 
-Du bist nicht bist nicht alleine damit dauernd auf falschen Seiten zu landen, mir passiert das auch sehr sehr oft..
+Du bist nicht alleine damit dauernd auf falschen Seiten zu landen, mir passiert das auch sehr sehr oft..
 Die Bundesregierung hätte natürlich auch einfach eine URL wählen können bei der man direkt sieht, dass sie dem Bund gehört zum Beispiel einmalzahlung.bund.de oder ähnliches, dadurch hätte auch vermieden werden können, dass Phishing die Tür geöffnet wird und man auch leichter sieht, wenn man auf der falschen Seite ist.
 
 ## Phishing
 
-Vielleicht hab ihr es mitbekommen oder auch nicht, aber auf dieser Seite war gestern noch ein Fake-Formular, diese sah absichtlich unecht aus und war auch absichtlich schlecht zu bedienen war und als Witz gemeint war, es wurden keine Daten versendet lediglich ein Hinweis angzeigt, dass man auf Phishing aufpassen sollte.
-Ich war doch recht überrascht wieviel Leute das als plausibel eingestuft haben, hier möchte ich die Bundesregierung in Schutz nehmen so schlechtes UI-Design trau ich denen dann auch nicht zu.
+Vielleicht habt ihr es mitbekommen oder auch nicht, aber auf dieser Seite war gestern noch ein Fake-Formular, dieses sah absichtlich unecht aus und war auch absichtlich schlecht zu bedienen und als Witz gemeint, es wurden keine Daten versendet lediglich ein Hinweis angezeigt, dass man auf Phishing aufpassen sollte.
+Ich war doch recht überrascht wieviele Leute das als plausibel eingestuft haben, hier möchte ich die Bundesregierung in Schutz nehmen so schlechtes UI-Design trau ich denen dann auch nicht zu.
 
 Wie ich damit gezeigt habe hat die Bundesregierung durch die Wahl der URL Phishing die Tür geöffnet, kann sich aber glücklich schätzen, dass ich und einige andere Studenten rechtzeitig gemerkt haben, dass die URL eine dumme Idee ist und Phishing ermöglichen würde.
-Daher haben wir viele URLs mit Möglichkeiten wie man einmalzahlung200 falsch schreiben kann erworben und dort teilweise Satireseiten oder Sieten zum aufklären über Phishing platziert.
+Daher haben wir viele URLs mit Möglichkeiten wie man einmalzahlung200 falsch schreiben kann erworben und dort teilweise Satireseiten oder Seiten zum Aufklären über Phishing platziert.
 
 So da ich meine alte Seite bisschen erklärt hab gebe ich noch ein paar Hinweise:
  - Sowohl bei Webseiten als bei E-Mails immer mehrfach überprüfen ob die URL auch wirklich richtig ist
