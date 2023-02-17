@@ -5,26 +5,29 @@ Tldr: Ihr habt euch vertippt und wollt vermutlich zu [https://einmalzahlung200.d
 
 Nein, du bist hier tatsächlich nicht richtig, aber fast. Schau dir die URL nochmal ganz genau an, da fehlt was (es ist ein "h").
 
-Du bist nicht alleine damit dauernd auf falschen Seiten zu landen, mir passiert das auch sehr sehr oft..
-Die Bundesregierung hätte natürlich auch einfach eine URL wählen können bei der man direkt sieht, dass sie dem Bund gehört zum Beispiel einmalzahlung.bund.de oder ähnliches, dadurch hätte auch vermieden werden können, dass Phishing die Tür geöffnet wird und man auch leichter sieht, wenn man auf der falschen Seite ist.
+Du bist nicht alleine damit, dauernd auf falschen Seiten zu landen, mir passiert das auch sehr sehr oft..
+Die Bundesregierung hätte natürlich auch einfach eine URL wählen können, bei der man direkt sieht, dass sie dem Bund gehört, zum Beispiel einmalzahlung.bund.de oder ähnliches, dadurch hätte auch vermieden werden können, dass Phishing die Tür geöffnet wird und man auch leichter sieht, wenn man auf der falschen Seite ist.
 
 ## Phishing
 
-Vielleicht habt ihr es mitbekommen oder auch nicht, aber auf dieser Seite war gestern noch ein Fake-Formular, dieses sah absichtlich unecht aus, war auch absichtlich schlecht zu bedienen und als Witz gemeint. Es wurden keine Daten versendet, lediglich ein Hinweis, dass man auf Phishing aufpassen sollte, wurde angezeigt.
-Ich war doch recht überrascht, wieviele Leute das als plausibel eingestuft haben. Hier möchte ich die Bundesregierung in Schutz nehmen: So ein schlechtes UI-Design traue ich denen dann auch nicht zu.
+Vielleicht habt ihr es mitbekommen oder auch nicht, aber auf dieser Seite war gestern noch ein Fake-Formular, dieses sah absichtlich unecht aus, war auch absichtlich schlecht zu bedienen und als Witz gemeint.
+Es wurden keine Daten versendet, lediglich ein Hinweis, dass man auf Phishing aufpassen sollte, wurde angezeigt.
+Ich war doch recht überrascht, wieviele Leute das als plausibel eingestuft haben.
+Hier möchte ich die Bundesregierung in Schutz nehmen: So ein schlechtes UI-Design traue ich denen dann auch nicht zu.
 
-Wie ich damit gezeigt habe, hat die Bundesregierung durch die Wahl der URL, Phishing die Tür geöffnet.Sie kann sich aber glücklich schätzen, dass ich und einige andere Studenten rechtzeitig gemerkt haben, dass die URL eine dumme Idee ist und Phishing ermöglichen würde.
-Daher haben wir viele URLs mit Möglichkeiten wie man einmalzahlung200 falsch schreiben kann erworben und dort teilweise Satireseiten oder Seiten zum Aufklären über Phishing platziert.
+Wie ich damit gezeigt habe, hat die Bundesregierung durch die Wahl der URL, Phishing die Tür geöffnet.
+Sie kann sich aber glücklich schätzen, dass ich und einige andere Studenten rechtzeitig gemerkt haben, dass die URL eine dumme Idee ist und Phishing ermöglichen würde.
+Daher haben wir viele URLs, mit Möglichkeiten wie man einmalzahlung200 falsch schreiben kann, erworben und dort teilweise Satireseiten oder Seiten zum Aufklären über Phishing platziert.
 
-So, da ich meine alte Seite bisschen erklärt hab gebe ich noch ein paar Hinweise:
- - Sowohl bei Webseiten, als auch bei E-Mails immer mehrfach überprüfen, ob die URL auch wirklich richtig ist
+So, da ich meine alte Seite bisschen erklärt hab, gebe ich noch ein paar Hinweise:
+ - Sowohl bei Webseiten, als auch bei E-Mails, immer mehrfach überprüfen, ob die URL auch wirklich richtig ist
  - Auch wenn eine E-Mail echt aussieht, überprüfen, dass die Links in dieser auch wirklich zu der richtigen Seite führen
- - Es gibt keine Firma die euch wegen Viren auf eurem Computer eine E-Mail schreibt, euch anruft oder sonst was tut, vorallem nicht mit indischem Akzent
+ - Es gibt keine Firma, die euch wegen Viren auf eurem Computer eine E-Mail schreibt, euch anruft oder sonst was tut, vorallem nicht mit indischem Akzent
  - Nein, auch nicht wenn die euch mehrfach versichern, dass sie der Microsoft Support sind
  - Lasst nicht irgendwelche random Personen über TeamViewer oder ähnliche Anwendungen auf euren Computer
  - Gebt nicht auf irgendwelchen Webseiten eure Daten ein, wenn ihr nicht 100% sicher seid, dass es die richtige Seite ist
  - Wenn ihr merkt, ihr seid grad auf Phishing reingefallen, ändert sofort euer Passwort bei dem jeweiligen Dienst
- - Ach ja Banken werden euch wirklich absolut nie nach euren Passwörtern fragen
+ - Ach ja, Banken werden euch wirklich absolut nie nach euren Passwörtern fragen
  - Und zum Schluss, aktiviert die Zwei-Faktor-Authentifizierung wenn ihr könnt
  
 <sub>(Falls ihr von Phishing betroffen seid, übernehme ich keine Haftung)</sub>
@@ -33,7 +36,7 @@ So, da ich meine alte Seite bisschen erklärt hab gebe ich noch ein paar Hinweis
 
 Über die URL hab mich ja schon beschwert, dann beschwer ich mich jetzt bisschen über die Seite an sich.
 
-Die Bundesregierung hat bis Februar gebraucht, um eine Seite zu erstellen auf der (stark verkürzt) steht: Sorry, wir sind eigentlich immer noch nicht fertig, ab 15.März dann aber wirklich, ganz sicher, versprochen.
+Die Bundesregierung hat bis Februar gebraucht, um eine Seite zu erstellen auf der (stark verkürzt) steht: Sorry, wir sind eigentlich immer noch nicht fertig, ab 15. März dann aber wirklich, ganz sicher, versprochen.
 Das ist schon ein großes Armutszeugnis.
 
 Dazu muss man sich eine BundID erstellen um dann am 15. März einen Antrag stellen zu können und wer weiß wie lange das dauert, den zu bearbeiten.
