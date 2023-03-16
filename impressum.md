@@ -5,11 +5,13 @@ Angaben gemäß § 5 TMG
 ## Adresse & Kontakt
 
 Name:
+    CIO, CEO, CTO, CFO, CDN, DNS, HTTP, CBO, CCO, BCC
+
     Per Göttlicher (nein das ist kein Pseudonym)
 
 Adresse:
     Berliner Allee 6 WG116 Zi.2
-    64295 Darmstadt 
+    64295 Darmstadt
 
 Email:
     kontakt(at)pergoet.de
