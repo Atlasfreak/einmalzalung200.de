@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="221"
+   height="48"
+   viewBox="0 0 221 48"
+   fill="none"
+   version="1.1"
+   id="svg154"
+   sodipodi:docname="eppsg-logo-svg-data.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs158">
+    <rect
+       x="13.3"
+       y="35.439999"
+       width="151.9503"
+       height="70.1959"
+       id="rect419" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview156"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="13.093095"
+     inkscape:cx="172.30457"
+     inkscape:cy="17.337383"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg154" />
+  <rect
+     x="0.96532094"
+     y="0.96532094"
+     width="144.21844"
+     height="46.069359"
+     stroke="#000000"
+     stroke-width="2"
+     id="rect148" />
+  <g
+     id="g1029"
+     transform="translate(-11.017241)">
+    <rect
+       x="156.14769"
+       y="1.1476939"
+       width="74.240013"
+       height="45.704613"
+       stroke="#000000"
+       stroke-width="2.29538"
+       id="rect152" />
+  </g>
+  <text
+     xml:space="preserve"
+     id="text417"
+     style="font-size:22.6667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;white-space:pre;shape-inside:url(#rect419);fill:#000000;fill-opacity:1"
+     transform="matrix(0.88065034,0,0,0.88065034,0.28916898,-18.854925)"><tspan
+       x="13.300781"
+       y="56.575974"
+       id="tspan1102"><tspan
+         style="font-weight:bold;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
+         id="tspan1100">Einmalzalung</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.9155px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold';fill:#000000;fill-opacity:1;stroke-width:0.878623"
+     x="155.98326"
+     y="31.00144"
+     id="text1087"><tspan
+       sodipodi:role="line"
+       id="tspan1085"
+       x="155.98326"
+       y="31.00144"
+       style="stroke-width:0.878623">200 K</tspan></text>
+</svg>
