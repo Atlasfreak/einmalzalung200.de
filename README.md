@@ -37,11 +37,17 @@ So, da ich meine alte Seite bisschen erklärt hab, gebe ich noch ein paar Hinwei
 Über die URL hab mich ja schon beschwert, dann beschwer ich mich jetzt bisschen über die Seite an sich.
 
 Die Bundesregierung hat bis Februar gebraucht, um eine Seite zu erstellen auf der (stark verkürzt) steht: Sorry, wir sind eigentlich immer noch nicht fertig, ab 15. März dann aber wirklich, ganz sicher, versprochen.
-Das ist schon ein großes Armutszeugnis.
+Das ist schon ein großes Armutszeugnis. Hey immerhin, man kann, seit dem 15-März, jetzt tatsächlich den Antrag stellen, wooo!
 
-Dazu muss man sich eine BundID erstellen um dann am 15. März einen Antrag stellen zu können und wer weiß wie lange das dauert, den zu bearbeiten.
+Dazu muss man sich eine BundID erstellen, um dann am 15. März einen Antrag stellen zu können und wer weiß wie lange das dauert den zu bearbeiten (angeblich nur ein paar Tage, mal sehen).
 Was das Verfahren deutlich beschleunigen würde, wäre eine automatisiert digital verifizierbare Studienbescheinigung.
-Das hätte den positiven Nebeneffekt auch einigen anderen Behörden Arbeit abzunehmen, welche Studienbescheinigungen prüfen müssen.
+Oder eine PIN die von der Uni jedem zur Verfügung gestellt wird.
+Ach die gibts? Aber ich brauch trotzdem ein BundID Konto? Wieso?
+Keine Ahnung, meiner Ansicht nach spricht nichts dagegen, dieses ganzen Prozess nur mit PIN und Zugangscode zu machen, ganz ohne BundID.
+Aber vermutlich will die Bundesregierung einfach alle Studierende zur BundID zwingen, damit man danach behaupten kann das es ja jetzt viel mehr Nutzer der BundID gibt und diese damit ein voller Erfolg ist
+Dabei bin ich mir sciher, dass die meisten danach direkt vergessen werden, dass sie diese besitzen und wofür ich die eigentlich sonst nutzen kann, weiß ich bis heute nicht.
+
+Eine automatisiert digital verifizierbare Studienbescheinigung hätte den positiven Nebeneffekt auch einigen anderen Behörden Arbeit abzunehmen, welche Studienbescheinigungen prüfen müssen.
 Allerdings müsste man dafür das Ganze bundeseinheitlich regeln und man weiß ja inzwischen wie gut das klappt, vorallem wenn es um Bildung geht... (\*Hust\* rheinland-pfälzisches Schulsystem \*Hust\*)
 An einigen Universitäten und Hochschulen kann man bereits über einen QR-Code direkt bestätigt bekommen, dass die Studienbescheinigung gültig ist.
 
