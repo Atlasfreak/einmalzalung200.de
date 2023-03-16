@@ -264,7 +264,8 @@ ul {
 
 .eppsg-module--bright-blue {
     padding: 1.25rem 0;
-    background-color: #A6D5FF
+    background-color: #592a00;
+    color: #ffffff;
 }
 
 @media (min-width:48rem) {
@@ -387,7 +388,7 @@ ul {
     line-height: 1.5rem;
     white-space: nowrap;
     text-decoration: none;
-    border: 1px solid #1B3E5F;
+    border: 1px solid #e4c1a0;
     border-radius: 2px
 }
 
@@ -397,15 +398,15 @@ ul {
 
 .eppsg-button:focus:not([aria-disabled=true]),
 .eppsg-button:hover:not([aria-disabled=true]) {
-    background-color: #102940;
-    color: #ffffff;
-    border-color: #102940
+    background-color: #e4c1a0;
+    color: #000000;
+    border-color: #e4c1a0
 }
 
 .eppsg-button--primary {
-    background-color: #1B3E5F;
-    color: #ffffff;
-    border-color: #1B3E5F
+    background-color: #e4c1a0;
+    color: #000000;
+    border-color: #e4c1a0
 }
 
 .eppsg-button__wrapper {
@@ -558,8 +559,8 @@ ul {
     font-size: 1.25rem;
     line-height: normal;
     font-weight: 100;
-    background-color: #1B3E5F;
-    color: #ffffff
+    background-color: #e4c1a0;
+    color: #000000
 }
 
 .eppsg-footer__bottom:last-child {
@@ -657,12 +658,12 @@ ul {
 
 .eppsg-footer__link {
     text-decoration: none;
-    color: #ffffff
+    color: #000000
 }
 
 .eppsg-footer__link:focus-visible {
-    outline: 2px solid #ffffff;
-    box-shadow: 0 0 10px 0#ffffff
+    outline: 2px solid #000000;
+    box-shadow: 0 0 10px 0#000000
 }
 
 .eppsg-footer__link:hover {
